@@ -88,7 +88,7 @@ requirements.txt    # Python dependencies
 .gitignore          # Ignored files  
 README.md           # Project documentation  
 ```
-
+---
 ## 👨‍💻 Author
 Lakshya Chalana
 B.Tech CSE
