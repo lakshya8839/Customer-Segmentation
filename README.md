@@ -78,16 +78,18 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-📁 Project Structure
+## 📁 Project Structure
+
+```bash
 app.py              # Main dashboard application  
 data.csv            # Dataset  
 requirements.txt    # Python dependencies  
 .env                # Environment configuration (not pushed to GitHub)  
 .gitignore          # Ignored files  
 README.md           # Project documentation  
+```
 
-
-👨‍💻 Author
+## 👨‍💻 Author
 Lakshya Chalana
 B.Tech CSE
 Focused on Data Analytics, Machine Learning & Applied AI
