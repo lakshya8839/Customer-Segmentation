@@ -91,5 +91,5 @@ README.md           # Project documentation
 ---
 ## 👨‍💻 Author
 Lakshya Chalana
-B.Tech CSE
-Focused on Data Analytics, Machine Learning & Applied AI
+- B.Tech CSE
+- Focused on Data Analytics, Machine Learning & Applied AI
