@@ -71,25 +71,14 @@ KMeans clustering was used to divide customers into 4 behavioral segments.
 
 ## 🚀 How to Run the Project
 
-1. Clone the repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/lakshya8839/Customer-Segmentation.git
-cd customer-segmentation-dashboard
+cd Customer-Segmentation
 
----
-
-2. Install required dependencies:
-
-```bash
 pip install -r requirements.txt
-
-3. Run the Streamlit app:
-
-```bash
 streamlit run app.py
-
----
 
 📁 Project Structure
 app.py              # Main dashboard application  
